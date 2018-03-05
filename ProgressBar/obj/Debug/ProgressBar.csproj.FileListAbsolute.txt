@@ -1,0 +1,18 @@
+E:\vs2017\ProgressBar\ProgressBar\bin\Debug\ProgressBar.dll
+E:\vs2017\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+E:\vs2017\ProgressBar\ProgressBar\obj\Debug\ProgressBar.ProgressBar.resources
+E:\vs2017\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.Cache
+E:\vs2017\ProgressBar\ProgressBar\obj\Debug\ProgressBar.dll
+E:\vs2017\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
+E:\vs2017\ProgressBar\ProgressBar\obj\Debug\ProgressBar.ProgressRing.resources
+E:\vs2017\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csprojResolveAssemblyReference.cache
+E:\vs2017\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+E:\Users\Mohammadhoseyn_mehri\documents\visual studio 2017\Projects\ProgressBar\ProgressBar\bin\Debug\ProgressBar.dll
+E:\Users\Mohammadhoseyn_mehri\documents\visual studio 2017\Projects\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+E:\Users\Mohammadhoseyn_mehri\documents\visual studio 2017\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csprojResolveAssemblyReference.cache
+E:\Users\Mohammadhoseyn_mehri\documents\visual studio 2017\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.ProgressBar.resources
+E:\Users\Mohammadhoseyn_mehri\documents\visual studio 2017\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.ProgressRing.resources
+E:\Users\Mohammadhoseyn_mehri\documents\visual studio 2017\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.Cache
+E:\Users\Mohammadhoseyn_mehri\documents\visual studio 2017\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+E:\Users\Mohammadhoseyn_mehri\documents\visual studio 2017\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.dll
+E:\Users\Mohammadhoseyn_mehri\documents\visual studio 2017\Projects\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
