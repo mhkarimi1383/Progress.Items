@@ -6,13 +6,13 @@
 ![Screen Shot](http://uupload.ir/files/n5w6_capture.jpg)
 
 ## Features
-- ##### You can change colores
-- ##### You can change Maximum
-- ##### You can change Fonts
-- ##### etc.
+- You can change colores
+- You can change Maximum
+- You can change Fonts
+- etc.
 
 ### Install nuget Package for your C# and Visual Basic
-### https://www.nuget.org/packages/Progress.Items/
+#### https://www.nuget.org/packages/Progress.Items/
 Package Manager
 ```
 PM> Install-Package Progress.Items
